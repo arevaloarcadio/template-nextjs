@@ -89,3 +89,8 @@
     flex-direction: column;
   }
 }
+
+.displayCenter{
+	display: flex;
+	justify-content: center;
+}
